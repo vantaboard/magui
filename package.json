@@ -1,0 +1,10 @@
+{
+  "name": "magui",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "blackboardd",
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^18.0.0"
+  }
+}
