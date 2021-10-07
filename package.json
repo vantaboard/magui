@@ -1,6 +1,6 @@
 {
   "name": "magui",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "main": "src/index.ts",
   "author": "blackboardd",
   "license": "MIT",
