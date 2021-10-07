@@ -1,1 +1,17 @@
+# Node
 node_modules
+
+# Typescript build files
+/dist/
+
+# Environmental variables
+.env
+
+# Log files
+*.log
+
+# Storybook
+storybook-static
+
+# Style dictionary
+/src/style-dictionary-dist
