@@ -51,7 +51,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "cm": "cz",
+    "cm": "cz commit --signoff",
     "lint": "eslint --fix --ext .js,.ts,.tsx ./src --ignore-path .gitignore",
     "prettier": "prettier --ignore-path .gitignore --write \"**/*.+(js|json|ts|tsx)\"",
     "format": "yarn prettier -- --write",
@@ -63,7 +63,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blackboardd/magui.git"
+    "url": "https://github.com/blackboardd/magui.git"
   },
   "bugs": {
     "url": "https://github.com/blackboardd/magui/issues"
