@@ -9,7 +9,6 @@
 - [ ] Style Dictionary typography  
 - [ ] Style Dictionary breakpoints  
 - [ ] Style Dictionary sizing  
-- [ ] Style Dictionary palette  
 - [ ] Deploy Storybook as github.io for Mag UI  
 - [ ] Card  
 - [ ] Typography  
@@ -49,6 +48,7 @@
 
 ### In Progress
 
+- [ ] Style Dictionary palette  
 
 ### Done ✓
 
