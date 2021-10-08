@@ -1,0 +1,129 @@
+{
+  "palette": {
+    "signal": {
+      "error": { "value": "#da3636" },
+      "warning": { "value": "#edff00" },
+      "success": { "value": "#66d465" }
+    },
+    "brand": {
+      "background": {
+        "light": { "value": "#ffffff" },
+        "dark": { "value": "{palette.gray.500}" }
+      },
+      "paper": {
+        "light": { "value": "{palette.brown.100}" },
+        "dark": { "value": "{palette.hazel.600}" }
+      },
+      "base": {
+        "light": {
+          "primary": { "value": "{palette.blue.300}" },
+          "secondary": { "value": "{palette.green.300}" }
+        },
+        "dark": {
+          "primary": { "value": "{palette.blue.900}" },
+          "secondary": { "value": "{palette.green.900}" }
+        }
+      },
+      "typography": {
+        "light": { "value": "{palette.blue.50}" },
+        "dark": { "value": "{palette.green.900}" }
+      }
+    },
+    "brown": {
+      "50": { "value": "#fbf8f7" },
+      "100": { "value": "#f4eeec" },
+      "200": { "value": "#ede3df" },
+      "300": { "value": "#e6d8d2" },
+      "400": { "value": "#e0cfc9" },
+      "500": { "value": "#dbc7bf" },
+      "600": { "value": "#d7c1b9" },
+      "700": { "value": "#d2bab1" },
+      "800": { "value": "#cdb3a9" },
+      "900": { "value": "#c4a69b" },
+      "A100": { "value": "#ffffff" },
+      "A200": { "value": "#ffffff" },
+      "A400": { "value": "#ffffff" },
+      "A700": { "value": "#ffede6" }
+    },
+    "orange": {
+      "50": { "value": "#fff7e9" },
+      "100": { "value": "#ffeac8" },
+      "200": { "value": "#ffdda4" },
+      "300": { "value": "#ffcf80" },
+      "400": { "value": "#ffc464" },
+      "500": { "value": "#ffba49" },
+      "600": { "value": "#ffb342" },
+      "700": { "value": "#ffab39" },
+      "800": { "value": "#ffa331" },
+      "900": { "value": "#ff9421" },
+      "A100": { "value": "#ffffff" },
+      "A200": { "value": "#ffffff" },
+      "A400": { "value": "#ffe7d0" },
+      "A700": { "value": "#ffdab7" }
+    },
+    "hazel": {
+      "50": { "value": "#e5e3e1" },
+      "100": { "value": "#bdbab5" },
+      "200": { "value": "#928c84" },
+      "300": { "value": "#665e53" },
+      "400": { "value": "#453c2e" },
+      "500": { "value": "#241909" },
+      "600": { "value": "#201608" },
+      "700": { "value": "#1b1206" },
+      "800": { "value": "#160e05" },
+      "900": { "value": "#0d0802" },
+      "A100": { "value": "#ff9651" },
+      "A200": { "value": "#ff781e" },
+      "A400": { "value": "#ea5d00" },
+      "A700": { "value": "#d05300" }
+    },
+    "gray": {
+      "50": { "value": "#e2e2e1" },
+      "100": { "value": "#b7b8b5" },
+      "200": { "value": "#878884" },
+      "300": { "value": "#575852" },
+      "400": { "value": "#33352d" },
+      "500": { "value": "#0f1108" },
+      "600": { "value": "#0d0f07" },
+      "700": { "value": "#0b0c06" },
+      "800": { "value": "#080a04" },
+      "900": { "value": "#040502" },
+      "A100": { "value": "#4dff4d" },
+      "A200": { "value": "#1aff1a" },
+      "A400": { "value": "#00e600" },
+      "A700": { "value": "#00cd00" }
+    },
+    "green": {
+      "50": { "value": "#ebfff0" },
+      "100": { "value": "#ceffda" },
+      "200": { "value": "#aeffc2" },
+      "300": { "value": "#8dffaa" },
+      "400": { "value": "#74ff97" },
+      "500": { "value": "#5cff85" },
+      "600": { "value": "#54ff7d" },
+      "700": { "value": "#4aff72" },
+      "800": { "value": "#41ff68" },
+      "900": { "value": "#30ff55" },
+      "A100": { "value": "#ffffff" },
+      "A200": { "value": "#ffffff" },
+      "A400": { "value": "#dbffe1" },
+      "A700": { "value": "#c2ffcc" }
+    },
+    "blue": {
+      "50": { "value": "#ebf7fd" },
+      "100": { "value": "#ceecf9" },
+      "200": { "value": "#ade0f5" },
+      "300": { "value": "#8cd3f1" },
+      "400": { "value": "#74c9ee" },
+      "500": { "value": "#5bc0eb" },
+      "600": { "value": "#53bae9" },
+      "700": { "value": "#49b2e5" },
+      "800": { "value": "#40aae2" },
+      "900": { "value": "#2f9cdd" },
+      "A100": { "value": "#ffffff" },
+      "A200": { "value": "#ecf8ff" },
+      "A400": { "value": "#b9e4ff" },
+      "A700": { "value": "#a0daff" }
+    }
+  }
+}

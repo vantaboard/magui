@@ -6,6 +6,50 @@
 
 ### Todo
 
+- [ ] Style Dictionary typography  
+- [ ] Style Dictionary breakpoints  
+- [ ] Style Dictionary sizing  
+- [ ] Deploy Storybook as github.io for Mag UI  
+- [ ] Card  
+- [ ] Typography  
+- [ ] Icons  
+- [ ] FAB  
+- [ ] Stack  
+- [ ] Container  
+- [ ] Avatar  
+- [ ] Footer  
+- [ ] Header  
+- [ ] Dropdown  
+- [ ] Carousel  
+- [ ] Box  
+- [ ] Tabbable  
+- [ ] Portal  
+- [ ] Id  
+- [ ] Composite  
+- [ ] Role  
+- [ ] Clickable  
+- [ ] VisuallyHidden  
+- [ ] Tab  
+- [ ] Disclosure  
+- [ ] Form  
+- [ ] Grid  
+- [ ] Group  
+- [ ] Tooltip  
+- [ ] Toolbar  
+- [ ] Tab  
+- [ ] Separator  
+- [ ] Radio  
+- [ ] Popover  
+- [ ] Menu  
+- [ ] Input  
+- [ ] Dialog  
+- [ ] Checkbox  
+- [ ] Button  
+
 ### In Progress
 
+- [ ] Style Dictionary palette  
+
 ### Done ✓
+
+
