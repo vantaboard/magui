@@ -26,7 +26,7 @@
 
 ## Changelog
 
-If you have recently updated, please read the [changelog](https://github.com/mui-org/material-ui/releases) for details of what has changed.
+If you have recently updated, please read the [changelog](https://github.com/blackboardd/magui/blob/main/CHANGELOG.md) for details of what has changed.
 
 ## 🧑‍🤝‍🧑 Contributing
 
