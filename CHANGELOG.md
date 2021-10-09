@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/blackboardd/magui/compare/v1.0.0...v1.0.1) (2021-10-09)
+
+
+### Bug Fixes
+
+* **README.md:** CHANGELOG in README.md was pointing to the wrong log ([7ea02a8](https://github.com/blackboardd/magui/commit/7ea02a8e96f12910e8d7e75a2c3eb74ef9d34080))
+
 # 1.0.0 (2021-10-09)
 
 
