@@ -1,4 +1,11 @@
-# Mag UI
+<h1 align="center">Mag UI</h1>
+
+<div align="center">
+
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/blackboardd/magui/blob/main/LICENSE) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Renovate status](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://github.com/blackboardd/magui/issues/18) [![Follow on Twitter](https://img.shields.io/twitter/follow/blkboardd.svg?label=follow+blkboardd)](https://twitter.com/blkboardd)
+
+</div>
+
 
 ## 👠 Features
 
@@ -7,36 +14,6 @@
 - Light theme / dark theme
 - Style dictionary
 - Neat animations
-
-## 🔧 Install
-
-[npm <img src=".github/images/icons/npm/b0f1a8318363185cc2ea6a40ac23eeb2.png" alt="npm" height="10"/>](https://github.com/npm/cli):
-
-```shell
-# Clone repo
-$ git clone https://github.com/blackboardd/magui.git
-$ cd magui
-
-# Install dependencies
-$ npm install
-
-# Start dev server
-$ npm start
-```
-
-[yarn <img src=".github/images/icons/yarn/icon-48x48.png" alt="yarn" height="10"/>](https://github.com/yarnpkg/yarn):
-
-```shell
-# Clone repo
-$ git clone https://github.com/blackboardd/magui.git
-$ cd magui
-
-# Install dependencies
-$ yarn install
-
-# Start dev server
-$ yarn start
-```
 
 ## 🧱 Stack
 
@@ -47,12 +24,14 @@ $ yarn start
 - [styled-components <img src=".github/images/icons/styled-components/nav-logo.png" alt="styled-components" height="10"/>](https://github.com/styled-components/styled-components)
 - [TypeScript <img src=".github/images/icons/typescript/favicon.ico" alt="TypeScript" height="10"/>](https://github.com/microsoft/TypeScript)
 
-### 🧑‍🤝‍🧑 Contributing
+## Changelog
 
-To contribute to this project, make a pull request to <https://github.com/blackboardd/magui>.
+If you have recently updated, please read the [changelog](https://github.com/mui-org/material-ui/releases) for details of what has changed.
 
-### ⚖️ License
+## 🧑‍🤝‍🧑 Contributing
 
-This project uses the [MIT license](https://opensource.org/licenses/MIT).
+Read the [contributing guide](/CONTRIBUTING.md) to learn about our development process, and how to craft proposals.
 
-Copyright (c) 2021 Brighten Clark
+## ⚖️ License
+
+This project is licensed under the terms of the [MIT license](/LICENSE).

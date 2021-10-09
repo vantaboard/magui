@@ -36,7 +36,7 @@
     [
       "@semantic-release/changelog",
       {
-        "changelogFile": "docs/CHANGELOG.md"
+        "changelogFile": "CHANGELOG.md"
       }
     ],
     "@semantic-release/github",
@@ -46,7 +46,7 @@
     [
       "@semantic-release/git",
       {
-      "assets": ["dist/**/*.{js,css}", "docs", "package.json", "docs/CHANGELOG.md"],
+      "assets": ["dist/**/*.{js,css}", "package.json", "CHANGELOG.md"],
       "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ]
