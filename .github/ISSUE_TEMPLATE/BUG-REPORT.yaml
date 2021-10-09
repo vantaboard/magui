@@ -1,0 +1,43 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees:
+  - blackboardd
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: How do we get in touch?
+      placeholder: null@null.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: The problem
+      description: What went wrong
+      placeholder: Explain
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    id: version
+    attributes:
+      label: Version
+      description: What version were you on?
+      placeholder: x.x.x
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
