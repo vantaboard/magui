@@ -26,11 +26,11 @@
 
 ## Changelog
 
-If you have recently updated, please read the [changelog](https://github.com/blackboardd/magui/blob/main/CHANGELOG.md) for details of what has changed.
+If you have recently updated, please read the [changelog](https://github.com/blackboardd/magui/blob/main/docs/CHANGELOG.md) for details of what has changed.
 
 ## 🧑‍🤝‍🧑 Contributing
 
-Read the [contributing guide](/CONTRIBUTING.md) to learn about our development process, and how to craft proposals.
+Read the [contributing guide](/docs/CONTRIBUTING.md) to learn about our development process, and how to craft proposals.
 
 ## ⚖️ License
 
