@@ -49,7 +49,7 @@
     "@babel/core": "7.15.8",
     "@babel/helper-compilation-targets": "^7.15.4",
     "@semantic-release/changelog": "6.0.0",
-    "@semantic-release/commit-analyzer": "9.0.1",
+    "@semantic-release/commit-analyzer": "9.0.2",
     "@semantic-release/git": "10.0.0",
     "@semantic-release/npm": "8.0.2",
     "@semantic-release/release-notes-generator": "10.0.2",
