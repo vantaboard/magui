@@ -79,7 +79,7 @@
     "lint-staged": "11.2.4",
     "husky": "7.0.4",
     "fork-ts-checker-webpack-plugin": "6.4.0",
-    "prettier": "2.4.1",
+    "prettier": "2.8.8",
     "pretty-quick": "3.1.1",
     "semantic-release": "18.0.0",
     "storybook": "6.3.12",
