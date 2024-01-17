@@ -83,7 +83,7 @@
     "pretty-quick": "3.1.1",
     "semantic-release": "18.0.0",
     "storybook": "6.3.12",
-    "style-dictionary": "3.0.3",
+    "style-dictionary": "3.9.2",
     "ts-loader": "9.2.6",
     "tsconfig-paths-webpack-plugin": "3.5.1",
     "typescript": "4.4.4"
